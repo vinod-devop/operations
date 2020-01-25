@@ -11,7 +11,7 @@
 - Maven
 - JSP
 - MySQL
-### Databases
+### Database
 Here,we used Mysql DB 
 MSQL DB Installation Steps for Linux ubuntu 14.04:
 - $ sudo apt-get update
